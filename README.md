@@ -20,6 +20,15 @@ I'm Alexander, or Alex for short. I'm currently a Year 3 undergraduate pursuing 
 * 🤖[Alex](https://github.com/AlexanderTanJunAn/AlexBot-B02-6A), a Search and Rescue (SAR) robot with remote naviagation and LIDAR mapping built using a Raspberry Pi and Arduino.
 * 📅[Duke](https://alexandertanjunan.github.io/ip/), a desktop app for managing your todos, events and deadlines, optimised for use via a Command Line Interface (CLI).
 
+<br>
+<br>
+<br>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexanderTanJunAn" alt="Github Streak" />
+  </p>
+
+
 <!--
 **AlexanderTanJunAn/AlexanderTanJunAn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
