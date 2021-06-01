@@ -17,7 +17,7 @@ I'm Alexander, or Alex for short. I'm currently a Year 3 undergraduate pursuing 
 * 👥[NUSCrowdTrackr](https://github.com/AlexanderTanJunAn/NUSCrowdTrackr-Orbital), to track crowds of popular facilities around NUS with cameras like CCTV's.
 * 👩‍⚕️[HealthVault](https://alexandertanjunan.github.io/tp/), a desktop application made for healthcare personnel, optimized for use via the Command Line Interface (CLI).
 * 🚗[RTOS-based Robotic Car](https://github.com/AlexanderTanJunAn/CG2271), using a FRDM-KL25Z board with Keil RTOS, controlled via an Android App.
-* 🤖[Alex](https://github.com/AlexanderTanJunAn/AlexBot-B02-6A), a Search and Rescue (SAR) robot with remote naviagation and LIDAR mapping built using a Raspberry Pi and Arduino.
+* 🤖[Alex](https://github.com/AlexanderTanJunAn/AlexBot-B02-6A), a Search and Rescue (SAR) robot with remote naviagation and LIDAR mapping built using a Raspberry Pi and Arduino. (No, I am not the robot.)
 * 📅[Duke](https://alexandertanjunan.github.io/ip/), a desktop app for managing your todos, events and deadlines, optimised for use via a Command Line Interface (CLI).
 
 <br>
