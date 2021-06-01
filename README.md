@@ -4,14 +4,14 @@ I'm Alexander, or Alex for short. I'm currently a Year 3 undergraduate pursuing 
 
 * Currently: Interning at Continental as a Software Tester
 * Previously: Completing Y2S2 studies in NUS
-
+---
 ### I'm Currently Learning
 
 **National University of Singapore**
 
 * CS2113T Software Engineering and Object-Oriented Programming
 * CG2271 Real-Time Operating Systems
-
+---
 ### Past Projects
 
 * 👥[NUSCrowdTrackr](https://github.com/AlexanderTanJunAn/NUSCrowdTrackr-Orbital), to track crowds of popular facilities around NUS with cameras like CCTV's.
