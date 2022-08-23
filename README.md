@@ -2,15 +2,15 @@
 
 I'm Alexander, or Alex for short. I'm currently a Year 3 undergraduate pursuing a Bachelor of Engineering in Computer Engineering.
 
-* Currently: Interning at Continental as a Software Tester
-* Previously: Completing Y2S2 studies in NUS
+* Currently: Completing my final year of studies
+* Previously: Interned at Continental as a Software Testes
 ---
 ### I'm Currently Learning
 
 **National University of Singapore**
 
-* CS2113T Software Engineering and Object-Oriented Programming
-* CG2271 Real-Time Operating Systems
+* CS3230 Design and Analysis of Algorithms
+* CS3237 Introduction to Internet of Things
 ---
 ### Past Projects
 
